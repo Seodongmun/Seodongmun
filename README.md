@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=야호&fontSize=90)
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=gee&color=black&height=300px&section=header&text=헤더임&fontSize=1.5rem" />
+
 
 
 <p  align="center">
