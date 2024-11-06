@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center"> Introduction </h1>
+<h1 align="center"> Introduction </h1>
 <p align="center">🎺Welcome to my nest!🎺</p>
 <br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<h3 align="center">📚 STACKS :rocket:</h1>
+<h1 align="center">📚 STACKS :rocket:</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="center">:earth_asia: Most Used Languages</h1>
+<h1 align="center">:earth_asia: Most Used Languages</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun" alt="Top Langs" />
