@@ -6,12 +6,9 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,java,html,css,react,mysql,eclipse&perline=3" />
     </a>
+    <a src="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04">Notion</a>
 </p>
 
-<p align="center">
     
-    <a src="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04">Notion</a>
-    
-</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!&fontSize=45)
