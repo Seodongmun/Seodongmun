@@ -34,11 +34,11 @@
 <br>
 
 <h1 align="center">:earth_asia: Most Used Languages</h1>
-<br>
-<br>
-<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun" alt="Top Langs" />
 </div>
-
+<br>
+<br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20World!🌑&fontSize=45)
