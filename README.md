@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=black&textColor=white&height=300px&section=header&text=헤더임&fontSize=1.5rem" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&textColor=white&height=300px&section=header&text=헤더임&fontSize=1.5rem" />
 
 <!-- Skill Icons -->
 <p align="center">
