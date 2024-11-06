@@ -42,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!&fontSize=45)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!:earth_africa:&fontSize=45)
