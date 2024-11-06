@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Notion: https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Notion:%20https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04&descAlignY=51&descAlign=62)
 
-Notion: [https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04]
+[Notion](https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04)
 
-<div align=center><h1>📚 STACKS</h1></div>
+# 📚 STACKS
 
-<div align=center> 
+<div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -24,7 +24,8 @@ Notion: [https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04]
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -32,8 +33,6 @@ Notion: [https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04]
   <br>
 </div>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!&fontSize=45)
