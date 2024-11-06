@@ -6,7 +6,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,java,html,css,react,mysql,eclipse&perline=3" />
     </a>
-    <a src="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04">Notion</a>
+    <a src="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04">노션</a>
 </p>
 
     
