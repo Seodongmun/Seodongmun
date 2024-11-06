@@ -10,7 +10,7 @@
 
 <p align="center">
     <h4>Notion</h4>
-    <a href="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04"></a>
+    <img src="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04"/>
     
 </p>
 
