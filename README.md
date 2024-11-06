@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!🌕&fontSize=90&animation=fadeIn&fontAlignY=38&desc=born%201995&descAlignY=51&descAlign=62) 
-<p align="center">:full_moon: [Notion] : (https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04) :point_left:</p> 
-
-<br>
 
 <h1 align="center"> Introduction </h1>
-<p align="center">🎺Welcome to my nest!🎺</p>
+<p align="center">🎺 Welcome to my nest! 🎺</p>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+<h1 align="center"> Notion </h1>
+:full_moon:<a href="https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04"></a>:point_left:
+<br>
+
 <h1 align="center">📚 STACKS :rocket:</h1>
 
 <div align="center">
