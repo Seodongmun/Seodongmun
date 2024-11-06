@@ -3,8 +3,5 @@
 
 
 <p  align="center">
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,html,css,react,mysql,eclipse&perline=3" />
-  </a>
 </p>
-</div>
