@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=born%201995&descAlignY=51&descAlign=62)
 
-<p align="center">:full_moon: [Notion] : (https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04) :point_left: </p> 
+<p align="center">:full_moon: [Notion] : (https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04) :point_left:</p> 
 
 <br>
 
@@ -35,4 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun" alt="Top Langs" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!&fontSize=45)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20World!&fontSize=45)
