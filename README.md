@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">
 # 📚 STACKS 
-# :rocket:
+ :rocket:
 </h1>
 <div align="center">
   
