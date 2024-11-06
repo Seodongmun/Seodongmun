@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=born1995%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Notion: [https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04]&descAlignY=51&descAlign=62)
 
 
-<p align="center">    
-    Notion: [https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04]
-</p>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
