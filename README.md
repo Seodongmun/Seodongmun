@@ -1,5 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=야호&fontSize=90)
+<div align="center">
+
 
 <p  align="center">
     <a href="https://skillicons.dev">
