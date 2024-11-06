@@ -4,10 +4,8 @@
 <h1 align="center">🎺 Welcome to my nest! 🎺</h1>
 <br>
 <br>
-<br>
 <h1 align="center"> Notion </h1>
 <p align="center">:full_moon: https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04 :point_left: </p>
-<br>
 <br>
 <br>
 <h1 align="center">📚 STACKS :rocket:</h1>
@@ -36,7 +34,9 @@
 <br>
 
 <h1 align="center">:earth_asia: Most Used Languages</h1>
-
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun" alt="Top Langs" />
 </div>
