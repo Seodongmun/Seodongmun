@@ -1,18 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=born%201995&descAlignY=51&descAlign=62)
 
-<p align="center">
-:full_moon:[Notion](https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04)
-</p>
+<p align="center">:full_moon: [Notion](https://www.notion.so/1356e407fe4380d9971dfc8a34da8d04)</p>
+
 <br>
-<br>
-<br>
-<br>
-<h1 align="center">
- 📚 STACKS 
- :rocket:
-</h1>
+
+<h1 align="center">📚 STACKS :rocket:</h1>
+
 <div align="center">
-  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
@@ -31,16 +25,14 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
 </div>
+
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1 align="center">:earth_asia:Most Used Languages</h1>
+
+<h1 align="center">:earth_asia: Most Used Languages</h1>
+
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seodongmun)
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=footer&text=GoodBye!%20world!&fontSize=45)
