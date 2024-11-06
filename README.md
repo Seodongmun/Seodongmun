@@ -8,9 +8,10 @@
 <br>
 <br>
 <h1 align="center">
-# 📚 STACKS ![download](https://github.com/user-attachments/assets/7fd914d1-ae4e-43cb-abfe-550798875c32)
+# 📚 STACKS 
 
 </h1>
+![download](https://github.com/user-attachments/assets/7fd914d1-ae4e-43cb-abfe-550798875c32)
 <div align="center">
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
