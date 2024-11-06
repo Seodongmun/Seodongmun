@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hello!%20Moon!🌕&fontSize=90&animation=fadeIn&fontAlignY=38&desc=born%201995&descAlignY=51&descAlign=62) 
 
 
-<h1 align="center">🎺 Welcome to my nest! 🎺</h1>
+<h2 align="center">🎺 Welcome to my nest! 🎺</h2>
 <br>
 <br>
 <br>
