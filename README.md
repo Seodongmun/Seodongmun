@@ -3,8 +3,9 @@
 
 
 <p align="center">
-    <h4>Tech Stack<h4>
+    
     <a href="https://skillicons.dev">
+    <h4>Tech Stack<h4>
         <img src="https://skillicons.dev/icons?i=js,java,html,css,react,mysql,eclipse&perline=3" />
     </a>
 </p>
