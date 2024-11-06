@@ -1,6 +1,1 @@
-## Hi there 👋
-
-<div>
-  요요요요요ㅛ
-  
-</div>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
