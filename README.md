@@ -4,7 +4,7 @@
 <h1 align="center">🎺 Welcome to my nest! 🎺</h1>
 <br>
 <br>
-<h1 align="center">📝 Notion ✏️</h1>
+<h1 align="center">📝 Notion Portfolio ✏️</h1>
 <p align="center">:full_moon: https://bristle-microwave-830.notion.site/1356e407fe4380d9971dfc8a34da8d04 :point_left: </p>
 <br>
 <br>
